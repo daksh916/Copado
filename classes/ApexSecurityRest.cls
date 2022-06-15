@@ -20,4 +20,7 @@ global with sharing class ApexSecurityRest {
     }
       public class FunctionalException extends Exception{}
       public class SecurityException extends Exception{}
+
+    
+    
 }
